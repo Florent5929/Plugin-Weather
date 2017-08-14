@@ -1,0 +1,5 @@
+# La fréquence à laquelle le temps est autorisé à changer.
+# Si FreqTemps = 12, les 11 premières tentatives seront bloquées et la 12ème autorisée.
+# Si vous ne voulez pas réduire la fréquence mais empêcher les changements de temps tout court, passez ChangementTempsAutorise à false.
+FreqTemps : 12
+ChangementTempsAutorise : false

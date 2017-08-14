@@ -1,0 +1,5 @@
+name: fr_Florent59_Weather
+main: fr.Florent59.Weather.Main
+version: 1.12.2
+description: Permet de supprimer la pluie ou de reduire sa frequence.
+author: Florent59
